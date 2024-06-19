@@ -124,9 +124,6 @@ import java.util.List;
 
 
 
-        // O método criarConta() é privado e não pode ser testado diretamente.
-        // Ele será indiretamente testado quando testarmos registrarPF(), registrarPJ(), e registrar() pois estes métodos chamam criarConta()
-
-
+        
     }
 
